@@ -39,7 +39,7 @@ Run the without providing a password, it will prompt you to enter one
 You will be told whether your password has a problem and what that problem is or if its a strong password, you will be told how strong the password is.
 
 ### Next Steps:
-- **Enhancements**: You could add a graphical interface, integrate it with web applications, or extend the criteria for password evaluation.
+- **Enhancements**: I could add a graphical interface, integrate it with web applications, or extend the criteria for password evaluation.
 
 ## License
 This project is licensed under the MIT License.  
